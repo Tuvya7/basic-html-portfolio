@@ -18,3 +18,4 @@ It includes simple pages to practice structure, links, images, and basic styling
 - CSS
   
 More projects will be added as I continue learning.
+Link - https://tuvya7.github.io/basic-html-portfolio/
